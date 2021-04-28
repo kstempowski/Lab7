@@ -1,0 +1,13 @@
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.exe
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.deps.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.runtimeconfig.dev.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\bin\Debug\netcoreapp3.1\Lab7.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csprojAssemblyReference.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfoInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.AssemblyInfo.cs
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week4\Lab7\Lab7\obj\Debug\netcoreapp3.1\Lab7.genruntimeconfig.cache
